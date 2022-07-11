@@ -1,0 +1,17 @@
+{
+    "name": "admin/my-phpmvc-framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Giorgi Gogishvili",
+            "email": "ggogishvili8@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
